@@ -29,9 +29,7 @@ We created virtual model of MarsHopper. This model we put in the virtual environ
 We created demonstration model of plane powered by CO2 pressure. 
 ![demonstration-model](https://github.com/cizif/MarsHopper/blob/master/demonstration%20model.JPG)
 We reached 4atm pressure in the 0.5l bottle.To do this we need only 3g of solid CO2. 
-## POSSIBLE FUTURE OF MARSHOPPER
-By 2020, device for measurement will be sent to north (or south) pole of Mars. Its main mission is to check the conditions for optimal functioning of the MarsHopper. Firstly, check density of the ice (we need to confirm hypothesis that plane could grab dry ice from the surface). Secondly, measure other parameters, like temperature, pressure etc.
-
-By 2024, recalculations will be done based on measured data and MarsHopper will be sent to Mars. After entering the atmosphere, plane transforms itself to its flight condition, like plane form ARES project. Before first landing, plane estimates its future landing points. At first landing, plane harvests dry ice, accumulates energy in CO2 and uses it for next jump.
+## FUTURE OF MARSHOPPER
+We are starting Earth Hopper project. Its aim is to test different technical aspect of future MarsHopper mission. First subproject is to create prototype on earth to test heat transfer system and propulsion system. Second subproject is to test plane by releasing it from aerostat at 35км, to test transformation process and flight process at this altitude that resembles Mars atmosphere. National Space Agency of Ukraine showed interest in our project and we expect on cooperation.
 
 
