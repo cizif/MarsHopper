@@ -8,6 +8,8 @@ MarsHopper is a plane for investigation Mars poles and its surroundings. It uses
 
 To elaborate this idea we estimated viability of the mission in terms of energy consumption and flight condition. Our calculations showed that this project is possible with existing technologies. Also, to illustrate the idea we made computer modeling of flight process and made real life demonstration model of plane launched by jet force of CO2.
 
+[Video about project](https://www.youtube.com/watch?v=-1Za_VylHnQ)
+[Space Apps Page](https://2016.spaceappschallenge.org/challenges/tech/jet-set-mars/projects/mars-hopper)
 
 ## MARSHOPPER DESIGN
 
