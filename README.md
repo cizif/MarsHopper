@@ -20,7 +20,7 @@ Main power sources on existing Mars missions are radioisotope thermoelectric gen
 We propose to use local resource, solid CO2, to accumulate energy from RTG. The device that realize this idea we called MarsHopper. It is a plane. At landing, plane harvest CO2 and thus slowing down. Than it accumulates radioisotope energy by heating CO2. Rapid release of liquid (or supercritical) CO2 to Mars low-pressure atmosphere will cause transition to gas and rapid expansion. High-pressure gas can be used as a jet thrust for next jump and create rotation of propellers to sustain flight. With multiple jumps, it can investigate large area of Mars poles and its surroundings.
 We believe that it can revolutionize the way Mars is explored.
 ## PHYSICAL CALCULATIONS
-You can find approximate estimation of CO2 mass and energy required to flight in MarsHopper.pdf file
+You can find approximate estimation of CO2 mass and energy required to flight in [MarsHopper.pdf](https://github.com/cizif/MarsHopper/blob/master/MarsHopper.pdf "Look for details here") file
 ## MODELING 
 ### Virtual model
 We created virtual model of MarsHopper. This model we put in the virtual environment that resembles surface of Mars. Video on link below demonstrates the process of unpacking, initial landing and further start with jet thrust. 
