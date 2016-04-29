@@ -22,6 +22,13 @@ We believe that it can revolutionize the way Mars is explored.
 ## PHYSICAL CALCULATIONS
 You can find approximate estimation of CO2 mass and energy required to flight in MarsHopper.pdf file
 ## MODELING 
+### Virtual model
+We created virtual model of MarsHopper. This model we put in the virtual environment that resembles surface of Mars. Video on link below demonstrates the process of unpacking, initial landing and further start with jet thrust. 
+![virtual-model](https://github.com/cizif/MarsHopper/blob/master/virtual%20model.jpg)
+### Demonstration model
+We created demonstration model of plane powered by CO2 pressure. 
+![demonstration-model](https://github.com/cizif/MarsHopper/blob/master/demonstration%20model.JPG)
+We reached 4atm pressure in the 0.5l bottle.To do this we need only 3g of solid CO2. 
 ## POSSIBLE FUTURE OF MARSHOPPER
 By 2020, device for measurement will be sent to north (or south) pole of Mars. Its main mission is to check the conditions for optimal functioning of the MarsHopper. Firstly, check density of the ice (we need to confirm hypothesis that plane could grab dry ice from the surface). Secondly, measure other parameters, like temperature, pressure etc.
 
