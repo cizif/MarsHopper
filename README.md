@@ -8,7 +8,8 @@ MarsHopper is a plane for investigation Mars poles and its surroundings. It uses
 
 To elaborate this idea we estimated viability of the mission in terms of energy consumption and flight condition. Our calculations showed that this project is possible with existing technologies. Also, to illustrate the idea we made computer modeling of flight process and made real life demonstration model of plane launched by jet force of CO2.
 
-Video about project
+Video about project:
+
 [![Video about project](https://j.gifs.com/o2Km6Y.gif)](https://www.youtube.com/watch?v=-1Za_VylHnQ)
 
 [Space Apps Page](https://2016.spaceappschallenge.org/challenges/tech/jet-set-mars/projects/mars-hopper)
@@ -33,6 +34,7 @@ We created virtual model of MarsHopper. This model we put in the virtual environ
 We created demonstration model of plane powered by CO2 pressure. 
 ![demonstration-model](https://github.com/cizif/MarsHopper/blob/master/demonstration%20model.JPG)
 We reached 4atm pressure in the 0.5l bottle.To do this we need only 3g of solid CO2. 
+
 Demostration video:
 [![Demostration video](https://j.gifs.com/OYkGqR.gif)](https://www.youtube.com/watch?v=W8fOkVJrmQw)
 ## FUTURE OF MARSHOPPER
